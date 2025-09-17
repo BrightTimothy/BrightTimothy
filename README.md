@@ -3,7 +3,7 @@
 # 👤 Self-Introduction  
 📊 **Data Scientist | Data Analyst | Business Intelligence Enthusiast**
 
-Welcome — I’m excited to have you here!  
+Welcome, I’m excited to have you here
 **This space highlights my journey as a Data Analyst—driven by curiosity and powered by data.**
 
 I’m passionate about exploring data, uncovering patterns, and transforming numbers into meaningful insights that drive informed decisions.  
@@ -24,7 +24,7 @@ Feel free to explore my projects and see how I use data to tell impactful storie
 [![X (Twitter)](https://img.shields.io/badge/X-Follow-black)](https://x.com/brightakpan695?s=21)
 
 
-## 💼 Portfolio
+## 💼 Portfolio ⬇️
 
 All projects featured in this portfolio are based on mock or publicly available datasets that have been adapted for learning and demonstration purposes.  
 The information shown is not linked to any real organization or individual.  
