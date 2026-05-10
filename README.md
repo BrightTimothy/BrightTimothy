@@ -1,21 +1,34 @@
 ## Hi there 👋
 
 # 👤 Self-Introduction  
-📊 **Data Scientist | Data Analyst | Business Intelligence Enthusiast**
+**Data Scientist | AI/ML Engineer**
 
-Welcome, I’m excited to have you here
-**This space highlights my journey as a Data Analyst—driven by curiosity and powered by data.**
+Most people see data as a collection of numbers; I see it as a blueprint for the future. My journey is defined by the transition from **analyzing what happened** to **engineering what happens next.**
 
-I’m passionate about exploring data, uncovering patterns, and transforming numbers into meaningful insights that drive informed decisions.  
-From collecting and cleaning datasets to analyzing trends and visualizing results, I enjoy every step of the process that turns raw information into real business value.
+I specialize in bridging the gap between raw, messy data and production-ready intelligence. Whether it’s optimizing neural networks, architecting scalable ML pipelines, or uncovering high-stakes predictive insights, I build tools that don't just "report"—they solve.
 
-Feel free to explore my projects and see how I use data to tell impactful stories and solve real-world problems.
+**Why explore my space?**
+Behind every repository below is a commitment to precision and performance. I don't just train models; I build solutions that are ethically grounded, mathematically rigorous, and ready for real-world deployment.
+
+*Let’s move past the dashboard and start building the engine.*
+
+
 
 ## 🧠 Specialization
+* **Machine Learning Engineering** – Designing, training, and deploying end-to-end ML lifecycles (MLOps) using frameworks like **PyTorch** and **Scikit-learn**.
+* **Data Science & Modeling** – Applying advanced statistical modeling and feature engineering to solve complex predictive challenges.
+* **AI System Architecture** – Building scalable pipelines and integrating intelligent models into robust, production-grade applications.
 
-- **Data Analysis** – Extracting insights, identifying trends, and applying statistical techniques for informed decision-making.  
-- **Data Visualization** – Designing clear and compelling dashboards/reports using tools like **Excel**, **Tableau**, and **Power BI**.  
-- **Database Management & SQL** – Structuring, querying, and maintaining databases to ensure accuracy, efficiency, and scalability.
+
+## 🛠️ Tech Stack
+
+**Languages** [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+**ML Frameworks** [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+**Data Ops** [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+**Visualization** [![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 📫 Find me
 
@@ -26,7 +39,11 @@ Feel free to explore my projects and see how I use data to tell impactful storie
 
 ## 💼 Portfolio ⬇️
 
-All projects featured in this portfolio are based on mock or publicly available datasets that have been adapted for learning and demonstration purposes.  
-The information shown is not linked to any real organization or individual.  
+> [!IMPORTANT]
+> All projects featured in this portfolio are based on mock or publicly available datasets that have been adapted for learning and demonstration purposes. The information shown is not linked to any real organization or individual.
 
-These projects are intended to highlight my **analytical techniques**, **problem-solving ability**, and **data storytelling skills** while maintaining a strong commitment to **data privacy, confidentiality, and ethical standards**.
+These projects highlight my analytical techniques, problem-solving ability, and data storytelling skills while maintaining a strong commitment to data privacy, confidentiality, and ethical standards.
+
+---
+
+*“The goal is to turn data into information, and information into insight.”*
